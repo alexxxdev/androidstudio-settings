@@ -126,18 +126,19 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Git.Pull" icon="$USER_HOME$/Изображения/arrow-bottom-left.png" />
-    <action id="ChangesView.Revert" icon="$USER_HOME$/Изображения/undo-variant.png" />
-    <action id="Git.Merge" icon="$USER_HOME$/Изображения/source-merge.png" />
-    <action id="Git.Fetch" icon="$USER_HOME$/Изображения/arrow-down-bold-outline.png" />
-    <action id="FindUsages" icon="$USER_HOME$/Изображения/magnify.png" />
-    <action id="Git.Branches" icon="$USER_HOME$/Изображения/source-branch.png" />
-    <action id="ReformatCode" icon="$USER_HOME$/Изображения/code-braces.png" />
-    <action id="Git.Stash" icon="$USER_HOME$/Изображения/arrow-collapse-down.png" />
-    <action id="Git.Unstash" icon="$USER_HOME$/Изображения/arrow-expand-up.png" />
-    <action id="CheckinProject" icon="$USER_HOME$/Изображения/source-commit.png" />
-    <action id="Vcs.ShowTabbedFileHistory" icon="$USER_HOME$/Изображения/history.png" />
-    <action id="Vcs.Push" icon="$USER_HOME$/Изображения/arrow-top-right.png" />
-    <action id="FindInPath" icon="$USER_HOME$/Изображения/feature-search-outline.png" />
+    <action id="Git.Pull" icon="$APPLICATION_CONFIG_DIR$/options/icons/arrow-bottom-left.png" />
+    <action id="ChangesView.Revert" icon="$APPLICATION_CONFIG_DIR$/options/icons/undo-variant.png" />
+    <action id="Git.Merge" icon="$APPLICATION_CONFIG_DIR$/options/icons/source-merge.png" />
+    <action id="Git.Fetch" icon="$APPLICATION_CONFIG_DIR$/options/icons/arrow-down-bold-outline.png" />
+    <action id="RebuildGradleProject" icon="$APPLICATION_CONFIG_DIR$/options/icons/wrench.png" />
+    <action id="FindUsages" icon="$APPLICATION_CONFIG_DIR$/options/icons/magnify-scan.png" />
+    <action id="Git.Branches" icon="$APPLICATION_CONFIG_DIR$/options/icons/source-branch.png" />
+    <action id="ReformatCode" icon="$APPLICATION_CONFIG_DIR$/options/icons/code-braces.png" />
+    <action id="Git.Stash" icon="$APPLICATION_CONFIG_DIR$/options/icons/arrow-collapse-down.png" />
+    <action id="Git.Unstash" icon="$APPLICATION_CONFIG_DIR$/options/icons/arrow-expand-up.png" />
+    <action id="CheckinProject" icon="$APPLICATION_CONFIG_DIR$/options/icons/source-commit.png" />
+    <action id="Vcs.ShowTabbedFileHistory" icon="$APPLICATION_CONFIG_DIR$/options/icons/history.png" />
+    <action id="Vcs.Push" icon="$APPLICATION_CONFIG_DIR$/options/icons/arrow-top-right.png" />
+    <action id="FindInPath" icon="$APPLICATION_CONFIG_DIR$/options/icons/feature-search-outline.png" />
   </component>
 </application>
