@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
   <tool name="build_runner" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="&gt;C:\Flutter\flutter\bin\flutter.bat " />
+      <option name="COMMAND" value="C:\Flutter\flutter\bin\flutter.bat " />
       <option name="PARAMETERS" value="packages pub run build_runner build" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="C:/Flutter/UGOGC/unofficial_gog_client" />
     </exec>
   </tool>
 </toolSet>
