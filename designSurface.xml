@@ -54,6 +54,8 @@
         <entry key="..\:/online-mobile/general/src/main/res/layout/layout_toolbar.xml" value="0.1" />
         <entry key="..\:/online-mobile/general/src/main/res/layout/view_map_suggests.xml" value="0.24164467897977132" />
         <entry key="..\:/online-mobile/general/src/main/res/menu/product_details_menu.xml" value="0.49504504504504504" />
+        <entry key="..\:/online-mobile/recommender_system/src/main/res/layout/item_list_recommender_product.xml" value="0.12906772207563763" />
+        <entry key="..\:/online-mobile/recommender_system/src/main/res/layout/item_list_recommender_product_cart.xml" value="0.1" />
       </map>
     </option>
   </component>
