@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping ext="hivec" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="hive" type="PLAIN_TEXT" />
