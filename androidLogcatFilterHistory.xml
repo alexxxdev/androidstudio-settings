@@ -5,12 +5,12 @@
         <option value="package:mine tag:GraphQLLoggingInterceptor" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:GraphQLLoggingInterceptor" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:GraphQLL" />
         <option value="package:mine " />
+        <option value="package:mine message:HTTP Client" />
         <option value="package:mine" />
+        <option value="package:mine tag:GraphQLL" />
       </list>
     </option>
   </component>
